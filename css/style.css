@@ -214,3 +214,14 @@ footer {
   box-shadow: 0 2px 15px black;
   margin-left: 20px;
 }
+
+.riodance {
+  height: 200px;
+  width: 300px;
+  float: right;
+  border-radius: 20px;
+  box-shadow: 0 2px 15px black;
+  margin-left: 20px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
