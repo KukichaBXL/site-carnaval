@@ -225,3 +225,20 @@ footer {
   margin-bottom: 10px;
   margin-top: 10px;
 }
+
+.venise-carnaval {
+  height: 200px;
+  width: 300px;
+  float: right;
+  border-radius: 20px;
+  box-shadow: 0 2px 15px black;
+}
+
+.ceremonie-venise {
+  height: 200px;
+  width: 300px;
+  float: left;
+  border-radius: 20px;
+  box-shadow: 0 2px 15px black;
+  margin: 20px;
+}
