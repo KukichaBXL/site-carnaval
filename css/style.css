@@ -217,7 +217,7 @@ footer {
 
 .riodance {
   height: 200px;
-  width: 300px;
+  width: 380px;
   float: right;
   border-radius: 20px;
   box-shadow: 0 2px 15px black;
@@ -250,4 +250,9 @@ footer {
   border-radius: 20px;
   box-shadow: 0 2px 15px black;
   margin-left: 10px;
+}
+
+#riogif {
+  border-radius: 20px;
+  box-shadow: 0 2px 15px black;
 }
